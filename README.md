@@ -14,7 +14,7 @@ Example:
 
 Then run `esoui.py` to download all listed mod IDs into the `mods/` directory.
 
-## Contributions
+## Contributing
 
 This repository is not open for contributions.
 
